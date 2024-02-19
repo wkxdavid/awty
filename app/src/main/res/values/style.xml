@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="welcome">
+        <item name="android:textSize">48sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginVertical">40dp</item>
+    </style>
+
+    <style name="edit_text">
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_marginVertical">15dp</item>
+    </style>
+
+    <style name="button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginVertical">25dp</item>
+    </style>
+
+    <style name="toast_text">
+        <item name="android:layout_margin">15dp</item>
+    </style>
+</resources>

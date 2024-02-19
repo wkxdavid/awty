@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">awty</string>
+
+    <string name="title">Are we There Yet?</string>
+    <string name="message_placeholder">Enter a Message</string>
+    <string name="phone_placeholder">Enter a Phone Number</string>
+    <string name="interval_placeholder">Enter Interval Length (mins)</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="texting_phone">Texting %1$s</string>
+
+</resources>
